@@ -1,0 +1,41 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "0f467e1ac20e05c6a22891f1c95a672b57ece5a2a821f8cd18f21b7b3095fa1a"
+metafile = true
+
+[[files]]
+file = "mods/aquaculture.toml"
+hash = "484c96d1e28cd98777b63c33c8feba3c29041e42a7b8983a6fc946fb2e139bf3"
+metafile = true
+
+[[files]]
+file = "mods/balm.toml"
+hash = "8fc6b6eb99d8217f89b2ebf39087c5ccf710d130190afa51d5ae6c8a33582e02"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.toml"
+hash = "21705bedb7b0f248efb7f8c834aa4ec1e2e99909ffb88d9552f42dce3ff7fc1c"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.toml"
+hash = "2734131b1cfe4286a5ce71f3d341ec50c0d94f88755eef9c250b7f2abacdddd8"
+metafile = true
+
+[[files]]
+file = "mods/jei.toml"
+hash = "3a64118ed6ba032060e77341cab5ba34b59ea42eb3408c0b024529cc27d891ee"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.toml"
+hash = "929ee8601662381d136d00b8e40a347d1670e606b751bce2b40edaa8896ba014"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.toml"
+hash = "278d1924169fbd3d6f1e364372ff0b625453d0881cdfb1a1749ca8c48efb837c"
+metafile = true

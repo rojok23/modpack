@@ -1,0 +1,13 @@
+name = "testpack"
+author = "rojok"
+version = "1.18"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "73efa24617c66cb978216a63348a511d08c23147a28c49e176674b20e8590c7d"
+
+[versions]
+forge = "38.0.16"
+minecraft = "1.18"
