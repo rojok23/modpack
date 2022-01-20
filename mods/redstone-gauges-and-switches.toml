@@ -1,0 +1,13 @@
+name = "Gauges and Switches"
+filename = "rsgauges-1.18.1-1.2.13-b1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3592/527/rsgauges-1.18.1-1.2.13-b1.jar"
+hash-format = "murmur2"
+hash = "1153892789"
+
+[update]
+[update.curseforge]
+file-id = 3592527
+project-id = 296686
