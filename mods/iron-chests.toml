@@ -1,13 +1,13 @@
 name = "Iron Chests"
-filename = "ironchest-1.18-13.0.5.jar"
+filename = "ironchest-1.18-13.0.7.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3546/59/ironchest-1.18-13.0.5.jar"
+url = "https://edge.forgecdn.net/files/3583/838/ironchest-1.18-13.0.7.jar"
 hash-format = "murmur2"
-hash = "3271237083"
+hash = "292917835"
 
 [update]
 [update.curseforge]
-file-id = 3546059
+file-id = 3583838
 project-id = 228756
